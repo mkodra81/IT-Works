@@ -122,7 +122,7 @@ def main():
     print(s.get_fullname())
     print()
 
-# test branch
+# test
 
 if __name__ == "__main__":
     main()
