@@ -122,7 +122,7 @@ def main():
     print(s.get_fullname())
     print()
 
-# test
+# change master
 
 if __name__ == "__main__":
     main()
